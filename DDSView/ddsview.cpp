@@ -10,6 +10,8 @@
 #define NOMINMAX
 #include <windows.h>
 
+#include "DirectXTex.h"
+
 #include <assert.h>
 #include <stdio.h>
 #include <dxgiformat.h>
@@ -19,7 +21,7 @@
 
 #include <directxmath.h>
 
-#include "DirectXTex.h"
+
 
 using namespace DirectX;
 

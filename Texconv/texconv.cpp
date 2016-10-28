@@ -27,13 +27,16 @@
 
 #include <wrl\client.h>
 
+#include "directxtex.h"
 #include <d3d11.h>
 #include <dxgi.h>
 #include <dxgiformat.h>
 
+
+#include <d2d1.h>
 #include <wincodec.h>
 
-#include "directxtex.h"
+
 
 #include "DirectXPackedVector.h"
 

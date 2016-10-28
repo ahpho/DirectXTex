@@ -26,9 +26,11 @@
 #include <list>
 #include <vector>
 
+#include "directxtex.h"
+
 #include <dxgiformat.h>
 
-#include "directxtex.h"
+
 
 //Uncomment to add support for OpenEXR (.exr)
 //#define USE_OPENEXR
